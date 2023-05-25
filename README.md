@@ -27,7 +27,7 @@ The movie booked by the user will be stored in database and is retrived and show
 - #### Axios 
     Used for making api calls.
 
-The documentation for the backend - [Documentation](http:)
+The documentation for the backend - [Documentation](https://github.com/rushikesh-waghmare/Bookmyshow-Backend)
 
 
 
